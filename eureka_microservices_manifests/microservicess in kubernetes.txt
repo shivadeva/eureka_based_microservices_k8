@@ -1,0 +1,12 @@
+microservicess in kubernetes
+
+
+https://github.com/WendellAdriel/spring-microservices  ----- Code in github
+
+
+1) clone the Code
+
+2) changes are to made in the files
+
+Discovery:--
+

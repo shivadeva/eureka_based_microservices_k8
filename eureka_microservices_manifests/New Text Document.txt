@@ -1,0 +1,1 @@
+shivastunts/microservices_eureka_testing:v1
